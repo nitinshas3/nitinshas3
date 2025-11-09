@@ -29,7 +29,6 @@
   <!-- Tools -->
   <img src="https://img.shields.io/badge/MQL5-008080?style=for-the-badge&logo=metatrader&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
@@ -45,24 +44,31 @@
 
 ---
 
-### 📈 Competitive & Typing Profiles
+### 🧠 Competitive Programming  
 <p align="center">
   <a href="https://codeforces.com/profile/shazz.3">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
+  <a href="https://leetcode.com/u/shaszz/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="assets/competitive-heatmap.png" alt="Competitive Programming Heatmap (upload your screenshot here)" width="70%" />
+</p>
+
+---
+
+### ⌨️ Typing Profile  
+<p align="center">
   <a href="https://monkeytype.com/profile/falcon69">
     <img src="https://img.shields.io/badge/MonkeyType-FF6B6B?style=for-the-badge&logo=monkeytype&logoColor=white" />
   </a>
 </p>
 
-<!-- Codeforces Heatmap -->
 <p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/heatmap?username=shazz.3&theme=dark" alt="Codeforces Heatmap" />
-</p>
-
-<!-- MonkeyType Card or Heatmap -->
-<p align="center">
-  <img src="assets/monkeytype-heatmap.png" alt="Monkeytype Stats (upload your screenshot)" width="60%" />
+  <img src="assets/monkeytype-heatmap.png" alt="MonkeyType Stats (upload your screenshot here)" width="60%" />
 </p>
 
 ---
@@ -74,12 +80,6 @@
   </a>
   <a href="mailto:shastrin25@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://codeforces.com/profile/shazz.3">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-  <a href="https://monkeytype.com/profile/falcon69">
-    <img src="https://img.shields.io/badge/MonkeyType-FF6B6B?style=for-the-badge&logo=monkeytype&logoColor=white" />
   </a>
 </p>
 
