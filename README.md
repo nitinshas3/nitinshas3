@@ -52,16 +52,13 @@
   <a href="https://leetcode.com/u/shaszz/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://www.codechef.com/users/falcon_1_8">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
 </p>
 
 ---
 
 ### ⌨️ Typing Profile  
 <p align="center">
-  <a href="https://monkeytype.com/profile/shazz.3">
+  <a href="https://monkeytype.com/profile/falcon69">
     <img src="https://img.shields.io/badge/MonkeyType-FF6B6B?style=for-the-badge&logo=monkeytype&logoColor=white" />
   </a>
 </p>
