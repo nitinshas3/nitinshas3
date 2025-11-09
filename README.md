@@ -1,12 +1,7 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/zYl0d9y.png" alt="Banner" width="100%" />
-</p>
-
 <!-- Typing animation -->
 <h1 align="center">
   <a href="https://github.com/shaszz">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5D4&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Nitin+S+Shastri;Aspiring+Software+Engineer;ML+%26+DSA+Learner;FastAPI+%7C+Python+%7C+C%2B%2B+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5D4&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Nitin+S+Shastri;Aspiring+Software+Engineer;ML+%26+Backend+Developer;FastAPI+%7C+Python+%7C+C%2B%2B" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -15,8 +10,8 @@
 ### 👨‍💻 About Me  
 🎓 I'm **Nitin S Shastri**, a 2nd-year Computer Science student at **SJCE**.  
 💡 Passionate about **Data Structures & Algorithms**, **Machine Learning**, and **Backend Development** using **FastAPI**.  
-⚙️ I enjoy designing scalable, data-driven systems and solving real-world problems through clean, efficient code.  
-🎯 Aiming to become a **Software Engineer**, building expertise in **backend development and machine learning** to create intelligent, impactful solutions.
+⚙️ I love building clean, efficient, and scalable backend systems.  
+🎯 Currently exploring **AI automation** and **data-driven backend architectures**.
 
 ---
 
@@ -42,60 +37,61 @@
 
 ### 🚀 Highlight Project  
 #### 🧮 [Credentia Loan Recommendation Engine](https://github.com/nitinshas3/Credentia-ML-Model)
-> An intelligent recommendation engine that suggests optimal loan options based on student financial and academic behavior using **ML models** and **FastAPI** for serving predictions.  
-> - 🧠 Machine Learning: Scikit-Learn, Pandas, NumPy  
-> - ⚙️ Backend: FastAPI  
-> - 📊 Visualization: Matplotlib / Seaborn  
-> - ☁️ Deployable as an API service  
+> A machine learning-powered recommendation engine that suggests optimal loan options based on student profiles and academic behavior.  
+> - 🧠 Built with **Scikit-Learn**, **Pandas**, **NumPy**  
+> - ⚙️ Backend served via **FastAPI**  
+> - 📊 Visualized insights with **Matplotlib / Seaborn**  
+> - ☁️ Ready for deployment as an API service  
 
 ---
 
-### 📊 GitHub Stats
+### 📈 Competitive & Typing Profiles
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shaszz&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shaszz&theme=radical" />
-</p>
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaszz&layout=compact&theme=radical" />
-</p>
-
----
-
-### 🧠 Competitive & Typing Profiles
-<p align="center">
-  <a href="https://leetcode.com/u/shaszz/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://codeforces.com/profile/shazz.3"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
-  <a href="https://monkeytype.com/profile/falcon69"><img src="https://img.shields.io/badge/MonkeyType-FF6B6B?style=for-the-badge&logo=monkeytype&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/shazz.3">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://monkeytype.com/profile/falcon69">
+    <img src="https://img.shields.io/badge/MonkeyType-FF6B6B?style=for-the-badge&logo=monkeytype&logoColor=white" />
+  </a>
 </p>
 
-<!-- LeetCode Heatmap -->
+<!-- Codeforces Heatmap -->
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/shaszz?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Heatmap" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/heatmap?username=shazz.3&theme=dark" alt="Codeforces Heatmap" />
 </p>
 
-<!-- MonkeyType Screenshot Placeholder -->
+<!-- MonkeyType Card or Heatmap -->
 <p align="center">
-  <img src="assets/monkeytype-heatmap.png" alt="Monkeytype Heatmap (upload your own screenshot)" width="60%" />
+  <img src="assets/monkeytype-heatmap.png" alt="Monkeytype Stats (upload your screenshot)" width="60%" />
 </p>
 
 ---
 
 ### 🤝 Connect With Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/nitin-s-shastri-560195338/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:shastrin25@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/nitin-s-shastri-560195338/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:shastrin25@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/shazz.3">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://monkeytype.com/profile/falcon69">
+    <img src="https://img.shields.io/badge/MonkeyType-FF6B6B?style=for-the-badge&logo=monkeytype&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ### 💫 Interests  
-- 🧩 Enjoy solving challenging **DSA problems** and optimizing algorithms  
-- ⚙️ Interested in **Machine Learning**, **Backend Systems**, and their real-world applications  
-- 📈 Enthusiastic about **automation and analytics** using tools like **MQL5** and **Python**  
-- 🤝 Open to collaborating on **ML**, **API**, or **data-driven projects**
+- 🧩 Solving DSA problems & optimizing algorithms  
+- ⚙️ Backend development and ML-driven systems  
+- 📈 Automation, analytics, and financial tech (MQL5)  
+- 🤝 Always open to collaborating on **backend** or **ML** projects  
 
 ---
-
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
