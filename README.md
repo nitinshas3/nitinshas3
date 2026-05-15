@@ -53,7 +53,7 @@
 ### 🧠 Competitive Programming
 
 <p align="center">
-  <a href="https://codeforces.com/profile/shazz.">
+  <a href="https://codeforces.com/profile/shazz.3">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/nitin_shas3/">
