@@ -1,97 +1,50 @@
-<!-- Typing animation -->
-
-<h1 align="center">
-  <a href="https://github.com/shaszz">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5D4&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Nitin+S+Shastri;Aspiring+Software+Engineer;Backend+Developer;Python+%7C+C%2B%2B" alt="Typing SVG" />
-  </a>
-</h1>
-
----
-
-### 👨‍💻 About Me
-
-🎓 I'm **Nitin S Shastri**, a 2nd-year Computer Science student at **SJCE**.
-💡 Passionate about **Data Structures & Algorithms** and **Backend Development**.
-⚙️ I love building clean, efficient, and scalable backend systems.
-🎯 Currently exploring **AI automation** and **data-driven systems**.
-
----
-
-### 🛠️ Tech Stack
-
+<h1 align="center">Hey, I'm Nitin S Shastri 👋</h1>
 <p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <!-- Libraries -->
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/MQL5-008080?style=for-the-badge&logo=metatrader&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  🎓 Computer Science @ SJCE Mysuru <br/>
+  💻 Aspiring Software Engineer | Backend Developer
 </p>
 
 ---
 
-### 🚀 Highlight Project
-
-#### 🧮 [Credentia Loan Recommendation Engine](https://github.com/nitinshas3/Credentia-ML-Model)
-
-> A recommendation engine that suggests optimal loan options based on student profiles and academic behavior.
->
-> * 🧠 Built with **Scikit-Learn**, **Pandas**, **NumPy**
-> * ⚙️ Backend served via API
-> * 📊 Visualized insights with **Matplotlib / Seaborn**
-> * ☁️ Ready for deployment
+## 📌 About Me
+- 🎓 Third-year Computer Science student at SJCE, Mysuru
+- 💻 Focused on Backend Development and Software Engineering fundamentals
+- 🧠 500+ LeetCode problems solved | 1600+ contest rating
+- ⚙️ Building with Java, Spring Boot & PostgreSQL
+- 🚀 Currently working on backend and systems-oriented projects (Kafka, multithreading, OS concepts)
 
 ---
 
-### 🧠 Competitive Programming
-
-<p align="center">
-  <a href="https://codeforces.com/profile/shazz.3">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/nitin_shas3/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</p>
+## 🛠 Tech Stack
+**Languages:** C++, Java, SQL
+**Backend:** Spring Boot
+**Databases:** PostgreSQL
+**Tools:** Git, GitHub, Docker, Maven
 
 ---
 
-### ⌨️ Typing Profile
+## 📂 Projects
 
-<p align="center">
-  <a href="https://monkeytype.com/profile/falcon69">
-    <img src="https://img.shields.io/badge/MonkeyType-FF6B6B?style=for-the-badge&logo=monkeytype&logoColor=white" />
-  </a>
-</p>
+### 🔹 Credentia — Loan Recommendation Platform
+`XGBoost` `PostgreSQL`
+A machine learning–driven platform that recommends loan products to users based on their financial profile, using an XGBoost model for risk/eligibility scoring backed by a PostgreSQL data layer.
+<!-- TODO: add a line on scale (e.g. dataset size, accuracy/metric) and link a demo or screenshot if available -->
 
----
+### 🔹 StockFlow — Inventory & Billing System
+`Java` `JDBC` `PostgreSQL`
+A backend system for managing inventory and billing operations, built with core Java and JDBC on top of PostgreSQL, with a schema designed around real-world stock and transaction flows.
+<!-- TODO: mention any interesting design decision — e.g. transaction handling, schema normalization, concurrency -->
 
-### 🤝 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nitin-s-shastri-560195338/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:shastrin25@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/nitinshas3">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+
+## 🧩 Competitive Programming
+- 🟠 **LeetCode:** 500+ problems | 1600+ rating
+- 🟡 **CodeChef:** 2★
 
 ---
 
-### 💫 Interests
-
-* 🧩 Solving DSA problems & optimizing algorithms
-* ⚙️ Backend development
-* 📈 Automation and analytics
-* 🤝 Open to collaborating on backend projects
+## 🌐 Connect
+[LinkedIn](https://www.linkedin.com/in/nitinshas3/) •
+[LeetCode](https://leetcode.com/u/nitin_shas3/) •
+[Codolio](https://codolio.com/profile/nitin.shas3) •
+[GitHub](https://github.com/nitinshas3)
